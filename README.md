@@ -69,8 +69,7 @@ Visit the application at `http://127.0.0.1:8000`.
 
 ---
 
-## **Screenshots**
-(Add screenshots or GIFs of your project.)
+
 
 ---
 
@@ -92,12 +91,8 @@ Contributions are welcome! Follow these steps:
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## **Contact**
 For inquiries or suggestions, contact:
 - **Email**: gauravrajput3005@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/gaurav8299)
+- **GitHub**: [Gaurav](https://github.com/gaurav8299)
